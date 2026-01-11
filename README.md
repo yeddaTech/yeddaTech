@@ -1,16 +1,35 @@
-## Hi there 👋
+# yeddaTech
 
-<!--
-**yeddaTech/yeddaTech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Hi, I'm **Younesse Eddassouli**  
+🎓 Computer Science student at the **University of Milan**  
+💻 **Software Engineer (aspiring)**  
+🇨🇭 Focused on opportunities in **Switzerland (Zurich area)**
 
-Here are some ideas to get you started:
+I am a Computer Science student with a strong interest in **software engineering**, **low-level programming**, and **problem solving**.  
+Currently building solid foundations in algorithms, systems, and modern programming languages.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔧 Technical Skills
+- **C** (low-level programming, memory management)
+- **Java** (OOP, data structures)
+- **Go** (concurrency, clean backend code)
+- **Assembly** (architecture-level understanding)
+- **HTML / CSS** (static websites, GitHub Pages)
+
+---
+
+## 📂 Featured Projects
+- **yeddaTech-CV** – Personal CV website built with HTML & CSS  
+- Academic and personal projects in **C, Java, and Go**
+
+---
+
+## 🌐 Online Presence
+- 🔗 **GitHub**: https://github.com/yeddaTech  
+- 🌍 **Website / CV**: https://yeddaTech.github.io/CV  
+- 💼 **LinkedIn**: https://www.linkedin.com/in/younesse-eddassouli-158032293/
+
+---
+
+📌 **Keywords**: yeddaTech, Younesse Eddassouli, software engineer, computer science student, GitHub yeddaTech, Zurich Switzerland
