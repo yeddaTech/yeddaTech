@@ -27,7 +27,7 @@ Currently building solid foundations in algorithms, systems, and modern programm
 
 ## 🌐 Online Presence
 - 🔗 **GitHub**: https://github.com/yeddaTech  
-- 🌍 **Website / CV**: https://yeddaTech.github.io/CV  
+- 🌍 **Website / CV**: https://yeddaTech.github.io/Portfolio 
 - 💼 **LinkedIn**: https://www.linkedin.com/in/younesse-eddassouli-158032293/
 
 ---
