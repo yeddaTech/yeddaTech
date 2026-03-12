@@ -1,29 +1,33 @@
-# yeddaTech
+# YeddaTech
 
-👋 Hi, I'm **Younesse Eddassouli** 🎓 Computer Science student at the **University of Milan** 💻 Passionate about **Software Engineering**.
+Computer Science student who enjoys building software and web applications.
 
-I'm a CS student who enjoys figuring out how things work under the hood. I'm currently focusing on building solid foundations in algorithms, systems, and backend development through hands-on practice.
-
----
-
-## 🔧 What I'm learning & using
-- **C & Assembly** (to understand memory and architecture)
-- **Java & Go** (for OOP, data structures, and backend logic)
-- **HTML & CSS** (to give my projects a clean interface)
+I like programming, problem solving, and creating projects that are useful in real life.
 
 ---
 
-## 📂 What I've built
-- **Personal Portfolio** – My online CV built with HTML & CSS  
-- Various academic and personal projects experimenting with **C, Java, and Go**
+## 🏆 Pinned Projects
+- **Bazahal** – platform to discover halal products online  
+  [Website](https://bazahal.vercel.app) • [GitHub](https://github.com/yeddaTech/Bazahal)
+
+*(aggiungi qui altri progetti in futuro)*
 
 ---
 
-## 🌐 Where to find me
-- 🔗 **GitHub**: https://github.com/yeddaTech  
-- 🌍 **Website / CV**: https://yeddaTech.github.io/Portfolio  
-- 💼 **LinkedIn**: https://www.linkedin.com/in/younesse-eddassouli-158032293/
+## 🛠 Tech Stack
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) 
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 ---
 
-📌 **Keywords**: yeddaTech, Younesse Eddassouli, software engineering, computer science student, Milan, Zurich Switzerland
+## 📊 GitHub Stats
+![YeddaTech's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yeddaTech&show_icons=true&theme=radical)
+
+---
+
+## 📫 Contact
+[GitHub](https://github.com/yeddaTech)
