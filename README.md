@@ -26,3 +26,4 @@ I like programming, problem solving, and creating projects that are useful in re
 ## Contact
 [GitHub](https://github.com/yeddaTech)
 [Portfolio](https://yeddatech.github.io/Portfolio/)
+[LinkedIn](https://www.linkedin.com/in/younesse-eddassouli-158032293/)
