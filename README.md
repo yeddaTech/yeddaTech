@@ -6,14 +6,6 @@ I like programming, problem solving, and creating projects that are useful in re
 
 ---
 
-## Pinned Projects
-- **Bazahal** – platform to discover halal products online  
-  [Website](https://bazahal.vercel.app) • [GitHub](https://github.com/yeddaTech/Bazahal)
-
-
-
----
-
 ## Tech Stack
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) 
