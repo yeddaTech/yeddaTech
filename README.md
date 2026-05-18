@@ -18,11 +18,6 @@ I like programming, problem solving, and creating projects that are useful in re
 
 ---
 
-## GitHub Stats
-![YeddaTech's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yeddaTech&show_icons=true&theme=radical&hide_title=true)
-
----
-
 ## Contact
 [GitHub](https://github.com/yeddaTech)
 [Portfolio](https://yeddatech.github.io/Portfolio/)
