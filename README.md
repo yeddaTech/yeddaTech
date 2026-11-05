@@ -1,12 +1,19 @@
-# YeddaTech
+# Younesse Eddassouli
 
-Computer Science student who enjoys building software and web applications.
+Computer Science student, heading towards **backend development** and **cloud security**.
 
-I like programming, problem solving, and creating projects that are useful in real life.
+## Projects
 
----
+- **[roomdate](https://github.com/yeddaTech/roomdate)**: a platform to find rooms and roommates, live at [roomdate.vercel.app](https://roomdate.vercel.app). Go REST API, React and PostgreSQL. Argon2id password hashing, hashed session tokens, end-to-end encrypted chat, tests and CI on every push.
+- **[telecomando](https://github.com/yeddaTech/telecomando)**: use your phone as the touchpad and keyboard of your PC. Python, Windows and Linux, nothing leaves your Wi-Fi.
+- **[Vending_Machine](https://github.com/yeddaTech/Vending_Machine)**: a vending machine simulator in Java, with coin recognition, change-giving, inventory and binary-file persistence.
 
-## Tech Stack
+## Currently learning
+
+Docker, Kubernetes and cloud-native security.
+
+## Tech stack
+
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) 
@@ -16,9 +23,6 @@ I like programming, problem solving, and creating projects that are useful in re
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) 
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
----
-
 ## Contact
-[GitHub](https://github.com/yeddaTech)
-[Portfolio](https://yeddatech.github.io/Portfolio/)
-[LinkedIn](https://www.linkedin.com/in/younesse-eddassouli-158032293/)
+
+[Portfolio](https://yeddatech.github.io/Portfolio/) · [LinkedIn](https://www.linkedin.com/in/younesse-eddassouli-158032293/)
