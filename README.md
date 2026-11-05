@@ -1,6 +1,6 @@
 # Younesse Eddassouli
 
-Computer Science student, heading towards **backend development** and **cloud security**.
+Computer Science student at **[Università degli Studi di Milano](https://www.unimi.it) (UniMi)**, heading towards **backend development** and **cloud security**.
 
 ## Projects
 
